@@ -9,4 +9,11 @@ O programa fornece as seguintes dicas:
 
 - Se um dígito não estiver na senha, um X é exibido.
 
-  O jogo continua até que o jogador acerte a senha.
+O jogo continua até que o jogador acerte a senha.
+
+## **Exemplo de Execução**
+```bash
+Digite 4 números: 1357
+1?Xx
+Digite 4 números: 1234
+Acertou! 1234
